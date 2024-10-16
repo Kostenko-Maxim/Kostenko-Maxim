@@ -3,5 +3,6 @@
 ## Я начинающий Data Science и Data Analysis специалист
 
 Languages and tools
+![Python](https://img.shields.io/badge/:badgeContent)
 
 Links
