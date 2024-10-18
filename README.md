@@ -1,6 +1,6 @@
 ![Header](https://github.com/Kostenko-Maxim/Kostenko-Maxim/blob/main/assets/banner.png)
 
-## Я начинающий Data Science и Data Analysis специалист
+## Data Science и Data Analysis специалист
 
 ## Языки и инструменты
 
